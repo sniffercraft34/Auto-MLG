@@ -1,0 +1,14 @@
+{
+    "replace": false,
+    "values": [
+        "#air",
+        "#flowers",
+        "#saplings",
+        "short_grass",
+        "tall_grass",
+        "large_fern",
+        "fern",
+        "dead_bush",
+        "#crops"
+    ]
+}

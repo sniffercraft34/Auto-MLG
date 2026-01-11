@@ -1,6 +1,9 @@
 {
     "pack": {
-        "pack_format": 61,
-        "description": "Auto MLG"
+        "pack_format": 71,
+        "description": "Made by sniffercraft34",
+        "supported_formats": [71,81],
+        "min_format": 71,
+        "max_format": 99
     }
 }
